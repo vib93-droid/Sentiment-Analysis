@@ -1,5 +1,3 @@
-## README — Sentiment Analysis
-
 # Sentiment Analysis on Reviews
 
 ## Project Overview
